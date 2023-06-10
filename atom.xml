@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-<<<<<<< HEAD
     <id>https://xiaojingjing12345.github.io</id>
     <title>小景景的博客</title>
     <updated>2023-06-10T04:38:09.788Z</updated>
@@ -19,74 +18,33 @@
         <updated>2023-06-10T03:12:37.000Z</updated>
         <content type="html"><![CDATA[<h1 id="原帖">原帖：</h1>
 <figure data-type="image" tabindex="1"><img src="https://xiaojingjing12345.github.io/post-images/1686367777021.jpg" alt="" loading="lazy"></figure>
-=======
-    <id>http://localhost:4000</id>
-    <title>Gridea</title>
-    <updated>2023-06-10T04:23:44.867Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
-    <subtitle>身未动，心已远</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
-    <rights>All rights reserved 2023, Gridea</rights>
-    <entry>
-        <title type="html"><![CDATA[补充蔡启厚同学关于学而思oj内复制的方法]]></title>
-        <id>http://localhost:4000/post/bu-chong-cai-qi-hou-tong-xue-guan-yu-xue-er-si-oj-nei-fu-zhi-de-fang-fa/</id>
-        <link href="http://localhost:4000/post/bu-chong-cai-qi-hou-tong-xue-guan-yu-xue-er-si-oj-nei-fu-zhi-de-fang-fa/">
-        </link>
-        <updated>2023-06-10T03:12:37.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="原帖">原帖：</h1>
-<figure data-type="image" tabindex="1"><img src="http://localhost:4000/post-images/1686367777021.jpg" alt="" loading="lazy"></figure>
->>>>>>> 65a46bf43e80569e38e9475be7229e8761c79cd1
 <h1 id="方法补充">方法补充：</h1>
 <p> 由于字符编码原因，在Dev-C++中无法使用代码拖动的方式，将代码粘贴到其他的应用程序或网站中，因此我们可以在其他的地方中转一下。</p>
 <h2 id="方法一"> 方法一：</h2>
 <p>  使用微信：<br>
    1.在Dev-C++中复制代码至剪切板<br>
-<<<<<<< HEAD
    2.在微信输入框中粘贴并全选<img src="https://xiaojingjing12345.github.io/post-images/1686369181814.png" alt="" loading="lazy"><br>
    3.即可拖动至学而思oj<br>
 <img src="https://xiaojingjing12345.github.io/post-images/1686369309052.png" alt="" loading="lazy"></p>
-=======
-   2.在微信输入框中粘贴并全选<img src="http://localhost:4000/post-images/1686369181814.png" alt="" loading="lazy"><br>
-   3.即可拖动至学而思oj<br>
-<img src="http://localhost:4000/post-images/1686369309052.png" alt="" loading="lazy"></p>
->>>>>>> 65a46bf43e80569e38e9475be7229e8761c79cd1
 <hr>
 <h2 id="方法二"> 方法二：</h2>
 <p>  使用<a href="https://code.xueersi.com/ide/code/1">网站版学而思oj</a>（https://code.xueersi.com/ide/code/1）：<br>
    1.在Dev-C++中复制代码至剪切板<br>
-<<<<<<< HEAD
    2.在网站版学而思oj中粘贴并全选<img src="https://xiaojingjing12345.github.io/post-images/1686369876144.jpg" alt="" loading="lazy"><br>
-=======
-   2.在网站版学而思oj中粘贴并全选<img src="http://localhost:4000/post-images/1686369876144.jpg" alt="" loading="lazy"><br>
->>>>>>> 65a46bf43e80569e38e9475be7229e8761c79cd1
    3.即可拖动至课上的学而思oj</p>
 <hr>
 <h2 id="方法三"> 方法三：</h2>
 <p>  使用Word：<br>
    1.在Dev-C++中复制代码至剪切板<br>
-<<<<<<< HEAD
    2.在Word中粘贴并全选<img src="https://xiaojingjing12345.github.io/post-images/1686369510003.jpg" alt="" loading="lazy"><br>
    3.即可拖动至学而思oj<br>
 <img src="https://xiaojingjing12345.github.io/post-images/1686369559714.jpg" alt="" loading="lazy"></p>
-=======
-   2.在Word中粘贴并全选<img src="http://localhost:4000/post-images/1686369510003.jpg" alt="" loading="lazy"><br>
-   3.即可拖动至学而思oj<br>
-<img src="http://localhost:4000/post-images/1686369559714.jpg" alt="" loading="lazy"></p>
->>>>>>> 65a46bf43e80569e38e9475be7229e8761c79cd1
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-<<<<<<< HEAD
         <id>https://xiaojingjing12345.github.io/post/hello-gridea/</id>
         <link href="https://xiaojingjing12345.github.io/post/hello-gridea/">
-=======
-        <id>http://localhost:4000/post/hello-gridea/</id>
-        <link href="http://localhost:4000/post/hello-gridea/">
->>>>>>> 65a46bf43e80569e38e9475be7229e8761c79cd1
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
