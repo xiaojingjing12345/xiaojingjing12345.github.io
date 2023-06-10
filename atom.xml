@@ -1,39 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.andykingjing.cf</id>
-    <title>小景景Andykingjing的博客</title>
-    <updated>2023-01-17T14:07:29.417Z</updated>
+<<<<<<< HEAD
+    <id>https://xiaojingjing12345.github.io</id>
+    <title>小景景的博客</title>
+    <updated>2023-06-10T04:38:09.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://www.andykingjing.cf"/>
-    <link rel="self" href="https://www.andykingjing.cf/atom.xml"/>
-    <subtitle>这里是小景景Andykingjing的博客</subtitle>
-    <logo>https://www.andykingjing.cf/images/avatar.png</logo>
-    <icon>https://www.andykingjing.cf/favicon.ico</icon>
-    <rights>All rights reserved 2023, 小景景Andykingjing的博客</rights>
+    <link rel="alternate" href="https://xiaojingjing12345.github.io"/>
+    <link rel="self" href="https://xiaojingjing12345.github.io/atom.xml"/>
+    <subtitle>身未动，心已远</subtitle>
+    <logo>https://xiaojingjing12345.github.io/images/avatar.png</logo>
+    <icon>https://xiaojingjing12345.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 小景景的博客</rights>
     <entry>
-        <title type="html"><![CDATA[关于我]]></title>
-        <id>https://www.andykingjing.cf/post/aboutme/</id>
-        <link href="https://www.andykingjing.cf/post/aboutme/">
+        <title type="html"><![CDATA[补充蔡启厚同学关于学而思oj内复制的方法]]></title>
+        <id>https://xiaojingjing12345.github.io/post/bu-chong-cai-qi-hou-tong-xue-guan-yu-xue-er-si-oj-nei-fu-zhi-de-fang-fa/</id>
+        <link href="https://xiaojingjing12345.github.io/post/bu-chong-cai-qi-hou-tong-xue-guan-yu-xue-er-si-oj-nei-fu-zhi-de-fang-fa/">
         </link>
-        <updated>2023-01-17T14:02:03.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到我的小站呀ヾ(≧▽≦*)o，很高兴遇见你！🤝</p>
-</blockquote>
-<h2 id="关于本站">🏠 关于本站 🏠</h2>
-<pre><code>    这里是小景景Andykingjing的博客
-</code></pre>
-<h2 id="兴趣爱好">⛹ 兴趣爱好 ⛹</h2>
-<pre><code>    喜好编程、旅行、游戏……
-</code></pre>
-<h2 id="联系我呀">📬 联系我呀 📬</h2>
-<pre><code>    Email：andykingjing@126.com
-</code></pre>
+        <updated>2023-06-10T03:12:37.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="原帖">原帖：</h1>
+<figure data-type="image" tabindex="1"><img src="https://xiaojingjing12345.github.io/post-images/1686367777021.jpg" alt="" loading="lazy"></figure>
+=======
+    <id>http://localhost:4000</id>
+    <title>Gridea</title>
+    <updated>2023-06-10T04:23:44.867Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <subtitle>身未动，心已远</subtitle>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
+    <rights>All rights reserved 2023, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[补充蔡启厚同学关于学而思oj内复制的方法]]></title>
+        <id>http://localhost:4000/post/bu-chong-cai-qi-hou-tong-xue-guan-yu-xue-er-si-oj-nei-fu-zhi-de-fang-fa/</id>
+        <link href="http://localhost:4000/post/bu-chong-cai-qi-hou-tong-xue-guan-yu-xue-er-si-oj-nei-fu-zhi-de-fang-fa/">
+        </link>
+        <updated>2023-06-10T03:12:37.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="原帖">原帖：</h1>
+<figure data-type="image" tabindex="1"><img src="http://localhost:4000/post-images/1686367777021.jpg" alt="" loading="lazy"></figure>
+>>>>>>> 65a46bf43e80569e38e9475be7229e8761c79cd1
+<h1 id="方法补充">方法补充：</h1>
+<p> 由于字符编码原因，在Dev-C++中无法使用代码拖动的方式，将代码粘贴到其他的应用程序或网站中，因此我们可以在其他的地方中转一下。</p>
+<h2 id="方法一"> 方法一：</h2>
+<p>  使用微信：<br>
+   1.在Dev-C++中复制代码至剪切板<br>
+<<<<<<< HEAD
+   2.在微信输入框中粘贴并全选<img src="https://xiaojingjing12345.github.io/post-images/1686369181814.png" alt="" loading="lazy"><br>
+   3.即可拖动至学而思oj<br>
+<img src="https://xiaojingjing12345.github.io/post-images/1686369309052.png" alt="" loading="lazy"></p>
+=======
+   2.在微信输入框中粘贴并全选<img src="http://localhost:4000/post-images/1686369181814.png" alt="" loading="lazy"><br>
+   3.即可拖动至学而思oj<br>
+<img src="http://localhost:4000/post-images/1686369309052.png" alt="" loading="lazy"></p>
+>>>>>>> 65a46bf43e80569e38e9475be7229e8761c79cd1
+<hr>
+<h2 id="方法二"> 方法二：</h2>
+<p>  使用<a href="https://code.xueersi.com/ide/code/1">网站版学而思oj</a>（https://code.xueersi.com/ide/code/1）：<br>
+   1.在Dev-C++中复制代码至剪切板<br>
+<<<<<<< HEAD
+   2.在网站版学而思oj中粘贴并全选<img src="https://xiaojingjing12345.github.io/post-images/1686369876144.jpg" alt="" loading="lazy"><br>
+=======
+   2.在网站版学而思oj中粘贴并全选<img src="http://localhost:4000/post-images/1686369876144.jpg" alt="" loading="lazy"><br>
+>>>>>>> 65a46bf43e80569e38e9475be7229e8761c79cd1
+   3.即可拖动至课上的学而思oj</p>
+<hr>
+<h2 id="方法三"> 方法三：</h2>
+<p>  使用Word：<br>
+   1.在Dev-C++中复制代码至剪切板<br>
+<<<<<<< HEAD
+   2.在Word中粘贴并全选<img src="https://xiaojingjing12345.github.io/post-images/1686369510003.jpg" alt="" loading="lazy"><br>
+   3.即可拖动至学而思oj<br>
+<img src="https://xiaojingjing12345.github.io/post-images/1686369559714.jpg" alt="" loading="lazy"></p>
+=======
+   2.在Word中粘贴并全选<img src="http://localhost:4000/post-images/1686369510003.jpg" alt="" loading="lazy"><br>
+   3.即可拖动至学而思oj<br>
+<img src="http://localhost:4000/post-images/1686369559714.jpg" alt="" loading="lazy"></p>
+>>>>>>> 65a46bf43e80569e38e9475be7229e8761c79cd1
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://www.andykingjing.cf/post/hello-gridea/</id>
-        <link href="https://www.andykingjing.cf/post/hello-gridea/">
+<<<<<<< HEAD
+        <id>https://xiaojingjing12345.github.io/post/hello-gridea/</id>
+        <link href="https://xiaojingjing12345.github.io/post/hello-gridea/">
+=======
+        <id>http://localhost:4000/post/hello-gridea/</id>
+        <link href="http://localhost:4000/post/hello-gridea/">
+>>>>>>> 65a46bf43e80569e38e9475be7229e8761c79cd1
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
@@ -44,7 +97,7 @@
 <!-- more -->
 <p><a href="https://github.com/getgridea/gridea">Github</a><br>
 <a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
+<a href="https://fehey.com/">示例网站</a></p>
 <h2 id="特性">特性👇</h2>
 <p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
 <p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
